@@ -8,7 +8,7 @@ end
 Pod::Spec.new do |s|
   s.name                = "RNFBApp"
   s.version             = "6.0.3"
-  s.description         = "A well tested, feature rich Firebase implementation for React Native, supporting iOS & Android. Individual module support for Admob, Analytics, Auth, Crash Reporting, Cloud Firestore, Database, Dynamic Links, Functions, Messaging (FCM), Remote Config, Storage and more.",
+  s.description         = "A well tested, feature rich Firebase implementation for React Native, supporting iOS & Android. Individual module support for Admob, Analytics, Auth, Crash Reporting, Cloud Firestore, Database, Dynamic Links, Functions, Messaging (FCM), Remote Config, Storage and more."
   s.summary             = <<-DESC
                             A well tested feature rich Firebase implementation for React Native, supporting iOS & Android.
                           DESC
